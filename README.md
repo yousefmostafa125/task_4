@@ -41,7 +41,7 @@ The dataset is a cleaned version of the classic Boston Housing dataset, and incl
 ### 🔹 3. Polynomial Regression
 - Extends linear regression by including **non-linear (squared/cubic)** terms.
 - Captures more complex patterns in the data (e.g., price curves that bend).
-- Degree-2 polynomial often provides a good balance between accuracy and overfitting.
+- Degree-4 polynomial often provides a good balance between accuracy and overfitting.
 
 ---
 
