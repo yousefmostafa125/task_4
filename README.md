@@ -73,5 +73,5 @@ The dataset is a cleaned version of the classic Boston Housing dataset, and incl
    pip install pandas scikit-learn matplotlib
 
 Linear Regression MSE:            ~4.6769
-Multiple Linear Regression MSE:   ~17.23
-Polynomial Regression MSE:        ~6.1711
+Multiple Linear Regression MSE:   ~6.1711
+Polynomial Regression MSE:        ~8.90
